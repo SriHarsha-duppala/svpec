@@ -6,9 +6,9 @@ h2{
     background-color: rgb(127, 252, 69);
 }
 .button{
-   background-color:blue;
-   color:black;
+    background-color: blue;
+    color: black;
 }
 .button:hover{
-   background-color:red;
+    background-color: red;
 }
