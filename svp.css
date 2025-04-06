@@ -7,8 +7,16 @@ h2{
 }
 .button{
     background-color: blue;
-    color: black;
+    color: white;
+   border-radius:2px;
+   padding:2px;
 }
 .button:hover{
     background-color: red;
 }
+.image{
+  display: inline-flex;
+}
+  .image-container{
+    display:inline-block;
+  }
