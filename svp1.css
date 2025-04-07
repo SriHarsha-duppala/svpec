@@ -1,18 +1,11 @@
 body{
     background-image: url(https://svpec.edu.in/wp-content/uploads/2024/12/svp-vlg-scaled-e1735367596113.jpg);
-    background-size: cover;
+    background-color:white;
     display:block;
    
      
   }
-@media screen and (max-width: 480px) {
-    body{ 
-      background-color:blue;
-    
-    }
 
-
-  }
   .button{
     border-radius: 5px;
     padding: 5px;
