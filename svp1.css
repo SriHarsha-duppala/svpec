@@ -6,7 +6,7 @@ body{
    grid-template-rows: 1fr;
      
   }
-  @media(max-width:480px){
+@media screen and (max-width: 480px) {
     body{ 
       background-color:blue;
       flex-direction: column;
@@ -14,8 +14,7 @@ body{
         .button{
     border-radius: 5px;
     padding: 5px;
-    background-color: rgb(30, 219, 46);
-    color: white;
+  
     cursor: pointer;
   }
   .button:hover{
