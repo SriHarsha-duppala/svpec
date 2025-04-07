@@ -11,15 +11,7 @@ body{
       background-color:blue;
       flex-direction: column;
     }
-        .button{
-    border-radius: 5px;
-    padding: 5px;
-  
-    cursor: pointer;
-  }
-  .button:hover{
-    background-color: red;
-  }
+
 
   }
   .button{
