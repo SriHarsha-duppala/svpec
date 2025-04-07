@@ -2,8 +2,15 @@ body{
     background-image: url(https://svpec.edu.in/wp-content/uploads/2024/12/svp-vlg-scaled-e1735367596113.jpg);
     background-size: cover;
     display:block;
+     grid-template-columns:1fr;
+   grid-template-rows: 1fr;
      
   }
+  @media(max-width:480px){
+    body{ 
+      background-color:blue;
+      flex-direction: column;
+    }
   .button{
     border-radius: 5px;
     padding: 5px;
