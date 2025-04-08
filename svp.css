@@ -20,3 +20,14 @@ h2{
   .image-container{
     display:inline-block;
   }
+
+ .btn{
+    border-radius: 50px;
+    padding: 5px;
+    background-color: rgb(30, 219, 46);
+    color: white;
+    cursor: pointer;
+  }
+  .btn:active{
+    background-color: rgb(233, 21, 21);
+  }
